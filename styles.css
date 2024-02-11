@@ -1,1 +1,19 @@
-/* your code */
+.tab1{
+        width:90vh;
+        border-collapse:collapse;
+        border-radius: 30px;
+        border: 1px solid aqua;
+        }
+        th{
+            background-color: blue;
+            color:white;
+            padding: 10px;
+            text-align: left;            
+        }
+        td{
+            
+            padding: 10px;
+        }
+        .t1{
+            background-color:aqua
+        }
